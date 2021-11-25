@@ -1,7 +1,7 @@
 ## variables
 
 ### Definition
-variables are containers that are used to store the values.
+Variables are containers that are used to store the values.
 
 ### Naming convention of variables
 - Name should start with letter or underscore.
@@ -26,10 +26,10 @@ In other words, it is the visible of variable declared within a specific code bl
 Python has the following data types,
 - Text Type:	str
 - Numeric Types:	int, float, complex
+- Boolean Type:	bool
 - Sequence Types:	list, tuple, range
 - Mapping Type:	dict
 - Set Types:	set, frozenset
-- Boolean Type:	bool
 - Binary Types:	bytes, bytearray, memoryview
 
 ## How to know the type of data.
