@@ -1,4 +1,4 @@
-## variables
+## Variables
 
 ### Definition
 Variables are containers that are used to store the values.
@@ -34,3 +34,7 @@ Python has the following data types,
 
 ## How to know the type of data.
 we can find the type of data using `type` inbuilt method.
+
+## Typecasting
+Converting one data type to another datatype is called typecasting.
+
