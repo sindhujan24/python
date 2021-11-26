@@ -4,55 +4,47 @@ Arithematic Operators are used for performing basic arithematic operations in Py
 ## 1. Addition Operator
 Addition operator adds two values.
 ### x+y
-
-# Adding two numbers
-5+8
-
-#Adding two numbers
-100+246
+x=10
+y=20
+x+y
+30
 
 ## 2. Subtraction Operator
 Subtraction operator subtracts one value from the other.
 ### x-y
-
-# Subtracting
-50-46
-
-# Subtracting
-2867-365
+x=20
+y=10
+x-y
+10
 
 ## 3. Multiplication Operator
 Multiplication operator multiplies two values.
 ### x*y
-
-#multiplies two values
-45*34
-
-387*4
+x,y=10,10
+10*10
+100
 
 ## 4. Dividend Operator
 Dividend operator divides one operand by another.
 ### x/y
+numerator,denominator=10,5
+numerator/denominator
+2.0
 
-45/3
-
-764/56
 
 ## 5. Modulus Operator
 Modulus operator returns remainder of the division
 ### x%y
-
-456%23
-
-87645%8
+x,y=5,2
+X%2
+1
 
 ## 6. Exponent Operator
 Exponent Operator raises the power of left operand to the right operand.
 ### x**y
-
-7**4
-
-32**3
+x,y=2,3
+x**y
+8
 
 ## 7. Floor Division Operator
 Floor division operator returns quotient rounded off to the nearest integer.
